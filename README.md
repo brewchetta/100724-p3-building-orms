@@ -26,7 +26,7 @@
 
 ## Getting Started
 
-Fork and clone. In the terminal run `pipenv install` followed by `pipenv shell`. You should be able to debug easily with `python3 debug.py`. If the `ipdb` isn't working then remove it and run `python3 -i debug.py`.
+Fork and clone. In the terminal run `pipenv install` followed by `pipenv shell`. You should be able to debug easily with `python3 index.py` by running `python -i index.py`.
 
 ## Exercises
 
